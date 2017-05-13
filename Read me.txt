@@ -1,0 +1,4 @@
+Source: https://www.youtube.com/watch?v=1Sjq8KfDnTc
+http://www.safaaalhayali.com/
+
+HTML Table To PDF using JSON & jsPDF
